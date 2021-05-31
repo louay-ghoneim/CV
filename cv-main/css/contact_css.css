@@ -1,0 +1,6 @@
+.table,th{
+  color: white
+}
+.table,thead {
+  background-color: black
+}
